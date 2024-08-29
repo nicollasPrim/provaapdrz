@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 150vh;
+}
+
+.titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: goldenrod;
+}
+
+.link{
+    color: goldenrod;
+    font-size: 16px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.linkf{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.link:hover{
+    background-color: goldenrod;
+    color: white;
+    transition: 0.3s;
+    border-radius: 10px;
+}
+
+.link:visited{
+    color: none;
+}
+.linkf:hover{
+    color: goldenrod;
+    transition: 0.3s;
+    border-radius: 10px;
+}
+
+.linkf:visited{
+    color: none;
+}
+
+.texto{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+img{
+    width: 700px;
+}
+
+.fonte{
+    font-size: 15px;
+}
